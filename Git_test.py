@@ -3,3 +3,5 @@ def main():
 
 
 print("Test this new line on Github")
+
+print("Last push test line with ctrl+shift+k shortcut")
