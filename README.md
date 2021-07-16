@@ -1,2 +1,2 @@
-# Lec.OOP
+# OOP
 DS
