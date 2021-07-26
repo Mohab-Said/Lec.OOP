@@ -15,7 +15,7 @@ print('New path is: ',dir_check)
 files_check= os.listdir(path)
 print('You have: ', len(files_check))
 
-#Removing half of the universe random
+#Removing half of the universe randomly
 '''
 for files in sample(files_check,25):
     os.remove(files)
