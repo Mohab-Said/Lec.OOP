@@ -2,7 +2,7 @@ import os, random
 from random import sample
 
 #Checking dir to see if we have to change it to the targeted one
-path= 'E:\\Epsilon AI (CDSP)\\16-07-2021\\GCR\\Thanos Project\\Universe2'
+path= 'E:\\Epsilon AI (CDSP)\\16-07-2021\\GCR\\Thanos Project\\Universe'
 dir_check= os.getcwd()
 print("Current path is: ",dir_check)
 
